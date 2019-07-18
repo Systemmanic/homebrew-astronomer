@@ -1,0 +1,14 @@
+= Homebrew Astronomer
+
+== Description
+
+For installing https://github.com/Ullaakut/astronomer[Astronomer]
+
+== Installation
+
+. `brew tap dkanejs/astronomer`
+. `brew install astronomer`
+
+You can verify installation by running:
+
+`astronomer`
